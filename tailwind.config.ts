@@ -14,12 +14,15 @@ module.exports = {
       colors: {
         "black-100": "#2B2C35",
         "primary-blue": {
-          DEFAULT: "#2B59FF",
-          100: "#F5F8FF",
+          // DEFAULT: "#2B59FF",
+          DEFAULT: "#111810",
+          100: "#F2F2F2",
+          200: "#D3D3D3",
         },
         "secondary-orange": "#f79761",
         "light-white": {
-          DEFAULT: "rgba(59,60,152,0.03)",
+          // DEFAULT: "rgba(59,60,152,0.03)",
+          DEFAULT: "rgba(238, 238, 238, .5);",
           100: "rgba(59,60,152,0.02)",
         },
         grey: "#747A88",

@@ -8,6 +8,7 @@ import { useRouter } from "next/navigation";
 const SearchButton = ({ otherClasses }: { otherClasses: string}) => (
   <button type="submit" className={`-ml-3 z-10 ${otherClasses}`}>
     <Image src="/magnifying-glass.svg" alt="magnifying glass" width={40} height={40} className="object-contain" />
+    {/* <Image src="/search.svg" alt="magnifying glass" width={40} height={40} className="object-contain" /> */}
   </button>
 );
 
