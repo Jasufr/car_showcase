@@ -27,4 +27,4 @@ pnpm dev
 - [Car Image Api](https://www.imaginstudio.com/solutions/api)
 
 ## Based On:
-[JavaScript Mastery NextJS Course](https://www.youtube.com/watch?v=pUNSHPyVryU)
+- [JavaScript Mastery NextJS Course](https://www.youtube.com/watch?v=pUNSHPyVryU)
